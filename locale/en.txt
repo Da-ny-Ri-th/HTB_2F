@@ -22,10 +22,10 @@ Label_67C0ED9F_73FF_0B9B_41D8_30A7116528C9.text = HATTHA BANK PROJECT, 2F HR DIV
 ## Media
 
 ### Subtitle
-panorama_22A9E70F_2ED2_1664_41C7_6B3C10591675.subtitle = 1- CMED to Provide (Power Socket, Data & Power Point) \
+panorama_22BD5968_2ED2_3AA9_41C7_50A7DE4FFF64.subtitle = 1- CMED to Provide Power and Socket
+panorama_355FF64C_392B_C3F7_41AE_10F502D07375.subtitle = 1- CMED to Provide (Power Socket, Data & Power Point) \
 2- Projector Screen with remote-control is by client \
 3- Projector & Mechanism remote-control is by client
-panorama_22BD5968_2ED2_3AA9_41C7_50A7DE4FFF64.subtitle = 1- CMED to Provide Power and Socket
 panorama_AED3D468_B2DD_F1C2_41DB_C89F2B327B63.subtitle = 1- CMED to Provide (Power Socket, Data & Power Point) \
 2- Projector Screen with remote-control is by client \
 3- Projector & Mechanism remote-control is by client
@@ -35,8 +35,8 @@ panorama_B8F7462E_B2A6_9113_41D6_8DFE4DF70B7C.subtitle = 1- CMED to Provide (Pow
 
 ### Title
 map_F11DB490_E1AA_7D30_41CA_CB2E30E4C9C6.label = 2F - Key layout mini map
-panorama_22A9E70F_2ED2_1664_41C7_6B3C10591675.label = Note:
 panorama_22BD5968_2ED2_3AA9_41C7_50A7DE4FFF64.label = Note:
+panorama_355FF64C_392B_C3F7_41AE_10F502D07375.label = Note:
 panorama_AED3D468_B2DD_F1C2_41DB_C89F2B327B63.label = Note:
 panorama_B8CD86CC_B2A6_9117_41C5_6710586F9511.label = Note:
 panorama_B8F7462E_B2A6_9113_41D6_8DFE4DF70B7C.label = Note:
